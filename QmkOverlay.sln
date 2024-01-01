@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QmkOverlay.Driver", "QmkOverlay.Driver\QmkOverlay.Driver.csproj", "{AD499CC9-DAF3-4C32-B4F0-DE0A294DF6F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QmkOverlay.TestConsole", "QmkOverlay.TestConsole\QmkOverlay.TestConsole.csproj", "{7CB30C82-31D7-4E51-AF50-24C088E24F67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD499CC9-DAF3-4C32-B4F0-DE0A294DF6F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD499CC9-DAF3-4C32-B4F0-DE0A294DF6F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD499CC9-DAF3-4C32-B4F0-DE0A294DF6F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD499CC9-DAF3-4C32-B4F0-DE0A294DF6F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CB30C82-31D7-4E51-AF50-24C088E24F67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CB30C82-31D7-4E51-AF50-24C088E24F67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CB30C82-31D7-4E51-AF50-24C088E24F67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CB30C82-31D7-4E51-AF50-24C088E24F67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

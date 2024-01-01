@@ -1,0 +1,10 @@
+**/bin
+**/obj
+**/packages
+**/*.suo
+
+.vs/
+.idea/
+Release/
+TestResult.xml
+*.user

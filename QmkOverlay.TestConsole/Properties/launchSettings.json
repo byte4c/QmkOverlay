@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "QmkOverlay.TestConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "wait=true"
+    }
+  }
+}
